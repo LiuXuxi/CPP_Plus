@@ -1,0 +1,231 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IO",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_fopen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_fopen-Debug-b66d4d0eb306782f67b9.json",
+					"name" : "01_fopen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_fclose::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_fclose-Debug-14cf565bcfec182c56fe.json",
+					"name" : "02_fclose",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_error::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_error-Debug-732742b5531af1d674db.json",
+					"name" : "03_error",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_perror::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_perror-Debug-8397cbc5c4608c5d39bc.json",
+					"name" : "04_perror",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_fputc_fgetc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_fputc_fgetc-Debug-47eb030e8a54a8363848.json",
+					"name" : "05_fputc_fgetc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_test-Debug-8c0e941602d1ba478b20.json",
+					"name" : "05_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_fputs_fgets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_fputs_fgets-Debug-d75bb5604bc53a95741d.json",
+					"name" : "06_fputs_fgets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_test-Debug-a181e45cc42eb3c0fcc4.json",
+					"name" : "06_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_buffedsize::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_buffedsize-Debug-5a33a5efc981e2b6b0f9.json",
+					"name" : "07_buffedsize",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08_flbuff_flush::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_flbuff_flush-Debug-9e43c4512ee845894070.json",
+					"name" : "08_flbuff_flush",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09_ffbuff_flush::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_ffbuff_flush-Debug-fa02b9732404550f7437.json",
+					"name" : "09_ffbuff_flush",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10_fnbuff_flush::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10_fnbuff_flush-Debug-b15106c718b0d6079a50.json",
+					"name" : "10_fnbuff_flush",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11_fprintf_fscanf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_fprintf_fscanf-Debug-50f853a782827f31dd1a.json",
+					"name" : "11_fprintf_fscanf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11_log::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_log-Debug-7717fe871ea4fbb0d5c0.json",
+					"name" : "11_log",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_sprintf_snprintf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_sprintf_snprintf-Debug-95f4a46f2d979b87a621.json",
+					"name" : "12_sprintf_snprintf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13_fread_fwrite_int::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13_fread_fwrite_int-Debug-4bb65c3fe76181ad7375.json",
+					"name" : "13_fread_fwrite_int",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13_fread_fwrite_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13_fread_fwrite_string-Debug-8b70b38c6c9ea6e2cf2b.json",
+					"name" : "13_fread_fwrite_string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13_fread_fwrite_struct::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13_fread_fwrite_struct-Debug-62547efc9c3dca222889.json",
+					"name" : "13_fread_fwrite_struct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "14_fseek_ftell_rewind::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-14_fseek_ftell_rewind-Debug-d0655f89a500cfdb7d51.json",
+					"name" : "14_fseek_ftell_rewind",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "15_open_close::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15_open_close-Debug-b1419b4531adbc798401.json",
+					"name" : "15_open_close",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/Develop/CPP/Learn/02_IO/build",
+		"source" : "/root/Develop/CPP/Learn/02_IO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

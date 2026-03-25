@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/01_fopen.dir/01_fopen.cpp.o -c /root/Develop/CPP/Learn/02_IO/01_fopen.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/01_fopen.cpp",
+  "output": "CMakeFiles/01_fopen.dir/01_fopen.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/02_fclose.dir/02_fclose.cpp.o -c /root/Develop/CPP/Learn/02_IO/02_fclose.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/02_fclose.cpp",
+  "output": "CMakeFiles/02_fclose.dir/02_fclose.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/03_error.dir/03_error.cpp.o -c /root/Develop/CPP/Learn/02_IO/03_error.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/03_error.cpp",
+  "output": "CMakeFiles/03_error.dir/03_error.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/04_perror.dir/04_perror.cpp.o -c /root/Develop/CPP/Learn/02_IO/04_perror.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/04_perror.cpp",
+  "output": "CMakeFiles/04_perror.dir/04_perror.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/05_fputc_fgetc.dir/05_fputc_fgetc.cpp.o -c /root/Develop/CPP/Learn/02_IO/05_fputc_fgetc.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/05_fputc_fgetc.cpp",
+  "output": "CMakeFiles/05_fputc_fgetc.dir/05_fputc_fgetc.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/05_test.dir/05_test.cpp.o -c /root/Develop/CPP/Learn/02_IO/05_test.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/05_test.cpp",
+  "output": "CMakeFiles/05_test.dir/05_test.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/06_fputs_fgets.dir/06_fputs_fgets.cpp.o -c /root/Develop/CPP/Learn/02_IO/06_fputs_fgets.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/06_fputs_fgets.cpp",
+  "output": "CMakeFiles/06_fputs_fgets.dir/06_fputs_fgets.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/06_test.dir/06_test.cpp.o -c /root/Develop/CPP/Learn/02_IO/06_test.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/06_test.cpp",
+  "output": "CMakeFiles/06_test.dir/06_test.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/07_buffedsize.dir/07_buffedsize.cpp.o -c /root/Develop/CPP/Learn/02_IO/07_buffedsize.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/07_buffedsize.cpp",
+  "output": "CMakeFiles/07_buffedsize.dir/07_buffedsize.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/08_flbuff_flush.dir/08_flbuff_flush.cpp.o -c /root/Develop/CPP/Learn/02_IO/08_flbuff_flush.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/08_flbuff_flush.cpp",
+  "output": "CMakeFiles/08_flbuff_flush.dir/08_flbuff_flush.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/09_ffbuff_flush.dir/09_ffbuff_flush.cpp.o -c /root/Develop/CPP/Learn/02_IO/09_ffbuff_flush.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/09_ffbuff_flush.cpp",
+  "output": "CMakeFiles/09_ffbuff_flush.dir/09_ffbuff_flush.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/10_fnbuff_flush.dir/10_fnbuff_flush.cpp.o -c /root/Develop/CPP/Learn/02_IO/10_fnbuff_flush.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/10_fnbuff_flush.cpp",
+  "output": "CMakeFiles/10_fnbuff_flush.dir/10_fnbuff_flush.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/11_fprintf_fscanf.dir/11_fprintf_fscanf.cpp.o -c /root/Develop/CPP/Learn/02_IO/11_fprintf_fscanf.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/11_fprintf_fscanf.cpp",
+  "output": "CMakeFiles/11_fprintf_fscanf.dir/11_fprintf_fscanf.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/11_log.dir/11_log.cpp.o -c /root/Develop/CPP/Learn/02_IO/11_log.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/11_log.cpp",
+  "output": "CMakeFiles/11_log.dir/11_log.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/12_sprintf_snprintf.dir/12_sprintf_snprintf.cpp.o -c /root/Develop/CPP/Learn/02_IO/12_sprintf_snprintf.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/12_sprintf_snprintf.cpp",
+  "output": "CMakeFiles/12_sprintf_snprintf.dir/12_sprintf_snprintf.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/13_fread_fwrite_string.dir/13_fread_fwrite_string.cpp.o -c /root/Develop/CPP/Learn/02_IO/13_fread_fwrite_string.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/13_fread_fwrite_string.cpp",
+  "output": "CMakeFiles/13_fread_fwrite_string.dir/13_fread_fwrite_string.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/13_fread_fwrite_int.dir/13_fread_fwrite_int.cpp.o -c /root/Develop/CPP/Learn/02_IO/13_fread_fwrite_int.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/13_fread_fwrite_int.cpp",
+  "output": "CMakeFiles/13_fread_fwrite_int.dir/13_fread_fwrite_int.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/13_fread_fwrite_struct.dir/13_fread_fwrite_struct.cpp.o -c /root/Develop/CPP/Learn/02_IO/13_fread_fwrite_struct.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/13_fread_fwrite_struct.cpp",
+  "output": "CMakeFiles/13_fread_fwrite_struct.dir/13_fread_fwrite_struct.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/14_fseek_ftell_rewind.dir/14_fseek_ftell_rewind.cpp.o -c /root/Develop/CPP/Learn/02_IO/14_fseek_ftell_rewind.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/14_fseek_ftell_rewind.cpp",
+  "output": "CMakeFiles/14_fseek_ftell_rewind.dir/14_fseek_ftell_rewind.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/15_open_close.dir/15_open_close.cpp.o -c /root/Develop/CPP/Learn/02_IO/15_open_close.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/15_open_close.cpp",
+  "output": "CMakeFiles/15_open_close.dir/15_open_close.cpp.o"
+}
+]
