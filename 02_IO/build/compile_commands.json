@@ -118,5 +118,17 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/15_open_close.dir/15_open_close.cpp.o -c /root/Develop/CPP/Learn/02_IO/15_open_close.cpp",
   "file": "/root/Develop/CPP/Learn/02_IO/15_open_close.cpp",
   "output": "CMakeFiles/15_open_close.dir/15_open_close.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/16_lseek.dir/16_lseek.cpp.o -c /root/Develop/CPP/Learn/02_IO/16_lseek.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/16_lseek.cpp",
+  "output": "CMakeFiles/16_lseek.dir/16_lseek.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/17_picture.dir/17_picture.cpp.o -c /root/Develop/CPP/Learn/02_IO/17_picture.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/17_picture.cpp",
+  "output": "CMakeFiles/17_picture.dir/17_picture.cpp.o"
 }
 ]

@@ -660,6 +660,68 @@ build 15_open_close: CXX_EXECUTABLE_LINKER__15_open_close_Debug CMakeFiles/15_op
   TARGET_FILE = 15_open_close
   TARGET_PDB = 15_open_close.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 16_lseek
+
+
+#############################################
+# Order-only phony target for 16_lseek
+
+build cmake_object_order_depends_target_16_lseek: phony || CMakeFiles/16_lseek.dir
+
+build CMakeFiles/16_lseek.dir/16_lseek.cpp.o: CXX_COMPILER__16_lseek_unscanned_Debug /root/Develop/CPP/Learn/02_IO/16_lseek.cpp || cmake_object_order_depends_target_16_lseek
+  DEP_FILE = CMakeFiles/16_lseek.dir/16_lseek.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/16_lseek.dir
+  OBJECT_FILE_DIR = CMakeFiles/16_lseek.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 16_lseek
+
+
+#############################################
+# Link the executable 16_lseek
+
+build 16_lseek: CXX_EXECUTABLE_LINKER__16_lseek_Debug CMakeFiles/16_lseek.dir/16_lseek.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/16_lseek.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 16_lseek
+  TARGET_PDB = 16_lseek.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 17_picture
+
+
+#############################################
+# Order-only phony target for 17_picture
+
+build cmake_object_order_depends_target_17_picture: phony || CMakeFiles/17_picture.dir
+
+build CMakeFiles/17_picture.dir/17_picture.cpp.o: CXX_COMPILER__17_picture_unscanned_Debug /root/Develop/CPP/Learn/02_IO/17_picture.cpp || cmake_object_order_depends_target_17_picture
+  DEP_FILE = CMakeFiles/17_picture.dir/17_picture.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/17_picture.dir
+  OBJECT_FILE_DIR = CMakeFiles/17_picture.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 17_picture
+
+
+#############################################
+# Link the executable 17_picture
+
+build 17_picture: CXX_EXECUTABLE_LINKER__17_picture_Debug CMakeFiles/17_picture.dir/17_picture.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/17_picture.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 17_picture
+  TARGET_PDB = 17_picture.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -695,7 +757,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/02_IO/build
 
-build all: phony 01_fopen 02_fclose 03_error 04_perror 05_fputc_fgetc 05_test 06_fputs_fgets 06_test 07_buffedsize 08_flbuff_flush 09_ffbuff_flush 10_fnbuff_flush 11_fprintf_fscanf 11_log 12_sprintf_snprintf 13_fread_fwrite_string 13_fread_fwrite_int 13_fread_fwrite_struct 14_fseek_ftell_rewind 15_open_close
+build all: phony 01_fopen 02_fclose 03_error 04_perror 05_fputc_fgetc 05_test 06_fputs_fgets 06_test 07_buffedsize 08_flbuff_flush 09_ffbuff_flush 10_fnbuff_flush 11_fprintf_fscanf 11_log 12_sprintf_snprintf 13_fread_fwrite_string 13_fread_fwrite_int 13_fread_fwrite_struct 14_fseek_ftell_rewind 15_open_close 16_lseek 17_picture
 
 # =============================================================================
 # Built-in targets

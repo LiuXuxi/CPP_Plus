@@ -18,5 +18,7 @@
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/13_fread_fwrite_struct.dir
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/14_fseek_ftell_rewind.dir
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/15_open_close.dir
+/root/Develop/CPP/Learn/02_IO/build/CMakeFiles/16_lseek.dir
+/root/Develop/CPP/Learn/02_IO/build/CMakeFiles/17_picture.dir
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/edit_cache.dir
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/rebuild_cache.dir
