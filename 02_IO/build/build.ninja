@@ -722,6 +722,37 @@ build 17_picture: CXX_EXECUTABLE_LINKER__17_picture_Debug CMakeFiles/17_picture.
   TARGET_FILE = 17_picture
   TARGET_PDB = 17_picture.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 18_fstream
+
+
+#############################################
+# Order-only phony target for 18_fstream
+
+build cmake_object_order_depends_target_18_fstream: phony || CMakeFiles/18_fstream.dir
+
+build CMakeFiles/18_fstream.dir/18_fstream.cpp.o: CXX_COMPILER__18_fstream_unscanned_Debug /root/Develop/CPP/Learn/02_IO/18_fstream.cpp || cmake_object_order_depends_target_18_fstream
+  DEP_FILE = CMakeFiles/18_fstream.dir/18_fstream.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/18_fstream.dir
+  OBJECT_FILE_DIR = CMakeFiles/18_fstream.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 18_fstream
+
+
+#############################################
+# Link the executable 18_fstream
+
+build 18_fstream: CXX_EXECUTABLE_LINKER__18_fstream_Debug CMakeFiles/18_fstream.dir/18_fstream.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/18_fstream.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 18_fstream
+  TARGET_PDB = 18_fstream.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -757,7 +788,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/02_IO/build
 
-build all: phony 01_fopen 02_fclose 03_error 04_perror 05_fputc_fgetc 05_test 06_fputs_fgets 06_test 07_buffedsize 08_flbuff_flush 09_ffbuff_flush 10_fnbuff_flush 11_fprintf_fscanf 11_log 12_sprintf_snprintf 13_fread_fwrite_string 13_fread_fwrite_int 13_fread_fwrite_struct 14_fseek_ftell_rewind 15_open_close 16_lseek 17_picture
+build all: phony 01_fopen 02_fclose 03_error 04_perror 05_fputc_fgetc 05_test 06_fputs_fgets 06_test 07_buffedsize 08_flbuff_flush 09_ffbuff_flush 10_fnbuff_flush 11_fprintf_fscanf 11_log 12_sprintf_snprintf 13_fread_fwrite_string 13_fread_fwrite_int 13_fread_fwrite_struct 14_fseek_ftell_rewind 15_open_close 16_lseek 17_picture 18_fstream
 
 # =============================================================================
 # Built-in targets

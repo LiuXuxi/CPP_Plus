@@ -130,5 +130,11 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/17_picture.dir/17_picture.cpp.o -c /root/Develop/CPP/Learn/02_IO/17_picture.cpp",
   "file": "/root/Develop/CPP/Learn/02_IO/17_picture.cpp",
   "output": "CMakeFiles/17_picture.dir/17_picture.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/18_fstream.dir/18_fstream.cpp.o -c /root/Develop/CPP/Learn/02_IO/18_fstream.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/18_fstream.cpp",
+  "output": "CMakeFiles/18_fstream.dir/18_fstream.cpp.o"
 }
 ]

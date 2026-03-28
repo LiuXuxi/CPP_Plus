@@ -49,3 +49,11 @@
 121	159	1774524821	17_picture	354c2924292a73e0
 1	131	1774524845	CMakeFiles/17_picture.dir/17_picture.cpp.o	854bbefe04d13d2b
 131	170	1774524845	17_picture	354c2924292a73e0
+2	177	1774682957	CMakeFiles/18_fstream.dir/18_fstream.cpp.o	4612d2bb54ba2a69
+177	220	1774682957	18_fstream	cf4d2c4f2fdcae0c
+1	129	1774683692	CMakeFiles/18_fstream.dir/18_fstream.cpp.o	4612d2bb54ba2a69
+129	160	1774683692	18_fstream	cf4d2c4f2fdcae0c
+0	120	1774683718	CMakeFiles/18_fstream.dir/18_fstream.cpp.o	4612d2bb54ba2a69
+120	152	1774683718	18_fstream	cf4d2c4f2fdcae0c
+1	129	1774684575	CMakeFiles/18_fstream.dir/18_fstream.cpp.o	4612d2bb54ba2a69
+129	161	1774684575	18_fstream	cf4d2c4f2fdcae0c

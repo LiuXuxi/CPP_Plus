@@ -20,5 +20,6 @@
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/15_open_close.dir
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/16_lseek.dir
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/17_picture.dir
+/root/Develop/CPP/Learn/02_IO/build/CMakeFiles/18_fstream.dir
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/edit_cache.dir
 /root/Develop/CPP/Learn/02_IO/build/CMakeFiles/rebuild_cache.dir
