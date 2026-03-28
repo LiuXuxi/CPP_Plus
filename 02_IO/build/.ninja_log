@@ -57,3 +57,7 @@
 120	152	1774683718	18_fstream	cf4d2c4f2fdcae0c
 1	129	1774684575	CMakeFiles/18_fstream.dir/18_fstream.cpp.o	4612d2bb54ba2a69
 129	161	1774684575	18_fstream	cf4d2c4f2fdcae0c
+1	121	1774685414	CMakeFiles/19_seekg_seekp.dir/19_seekg_seekp.cpp.o	1f7dfed9264f70db
+121	155	1774685414	19_seekg_seekp	ccb14edfebeec705
+0	124	1774685578	CMakeFiles/19_seekg_seekp.dir/19_seekg_seekp.cpp.o	1f7dfed9264f70db
+124	157	1774685578	19_seekg_seekp	ccb14edfebeec705

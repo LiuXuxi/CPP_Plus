@@ -136,5 +136,11 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/18_fstream.dir/18_fstream.cpp.o -c /root/Develop/CPP/Learn/02_IO/18_fstream.cpp",
   "file": "/root/Develop/CPP/Learn/02_IO/18_fstream.cpp",
   "output": "CMakeFiles/18_fstream.dir/18_fstream.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/02_IO/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/19_seekg_seekp.dir/19_seekg_seekp.cpp.o -c /root/Develop/CPP/Learn/02_IO/19_seekg_seekp.cpp",
+  "file": "/root/Develop/CPP/Learn/02_IO/19_seekg_seekp.cpp",
+  "output": "CMakeFiles/19_seekg_seekp.dir/19_seekg_seekp.cpp.o"
 }
 ]
