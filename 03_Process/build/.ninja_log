@@ -1,0 +1,23 @@
+# ninja log v5
+1	28	1774942212	CMakeFiles/11_pipe_write.dir/11_pipe_write.cpp.o	9a78de03da0212b4
+22	56	1774942056	10_pipe_read	f642a8209972208e
+0	22	1774942056	CMakeFiles/10_pipe_read.dir/10_pipe_read.cpp.o	80812f61eebe867
+1	26	1774941177	CMakeFiles/09_pipe_self.dir/09_pipe_self.cpp.o	7a7c17673ce80020
+32	73	1774789616	04_wait	fd8b65db751f31cf
+0	21	1774788342	CMakeFiles/02_multifork.dir/02_multifork.cpp.o	b22bea5e2539c92c
+0	33	1774844674	CMakeFiles/06_odd_process.dir/06_odd_process.cpp.o	f7e2b083b7da4636
+21	61	1774788342	02_multifork	4cff98e34388bb80
+28	68	1774788936	03_exit	14ecd6a641440592
+28	59	1774942212	11_pipe_write	85a012b253d354f0
+6	132	1774940960	CMakeFiles/07_orphan.dir/07_orphan.cpp.o	348f8fb884bddd52
+132	194	1774940960	07_orphan	dd7321c87f14994a
+23	58	1774783214	01_fork	fa83cfedc98969f
+1	28	1774788936	CMakeFiles/03_exit.dir/03_exit.cpp.o	396fc16dbd9f56fa
+1	32	1774789616	CMakeFiles/04_wait.dir/04_wait.cpp.o	9b5005d04b9bafed
+0	195	1774842762	CMakeFiles/05_file_practice.dir/05_file_practice.cpp.o	9d9d72cd00d96129
+195	236	1774842762	05_file_practice	a92e441a2f31337b
+33	78	1774844674	06_odd_process	4d91ae5e153b4f49
+26	62	1774941177	09_pipe_self	e481eac29c97d745
+0	23	1774783214	CMakeFiles/01_fork.dir/01_fork.cpp.o	7eca25c00708318a
+1	26	1774940978	CMakeFiles/08_pipe.dir/08_pipe.cpp.o	47d4a40e2b24d811
+26	69	1774940978	08_pipe	5474177424f43c78

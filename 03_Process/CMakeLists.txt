@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(03_PROCESS)
+
+add_executable(01_fork 01_fork.cpp)
+add_executable(02_multifork 02_multifork.cpp)
+add_executable(03_exit 03_exit.cpp)
+add_executable(04_wait 04_wait.cpp)
+add_executable(05_file_practice 05_file_practice.cpp)
+add_executable(06_odd_process 06_odd_process.cpp)
+add_executable(07_orphan 07_orphan.cpp)
+add_executable(08_pipe 08_pipe.cpp)
+add_executable(09_pipe_self 09_pipe_self.cpp)
+add_executable(10_pipe_read 10_pipe_read.cpp)
+add_executable(11_pipe_write 11_pipe_write.cpp)

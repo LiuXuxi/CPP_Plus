@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/01_fork.dir/01_fork.cpp.o -c /root/Develop/CPP/Learn/03_Process/01_fork.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/01_fork.cpp",
+  "output": "CMakeFiles/01_fork.dir/01_fork.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/02_multifork.dir/02_multifork.cpp.o -c /root/Develop/CPP/Learn/03_Process/02_multifork.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/02_multifork.cpp",
+  "output": "CMakeFiles/02_multifork.dir/02_multifork.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/03_exit.dir/03_exit.cpp.o -c /root/Develop/CPP/Learn/03_Process/03_exit.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/03_exit.cpp",
+  "output": "CMakeFiles/03_exit.dir/03_exit.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/04_wait.dir/04_wait.cpp.o -c /root/Develop/CPP/Learn/03_Process/04_wait.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/04_wait.cpp",
+  "output": "CMakeFiles/04_wait.dir/04_wait.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/05_file_practice.dir/05_file_practice.cpp.o -c /root/Develop/CPP/Learn/03_Process/05_file_practice.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/05_file_practice.cpp",
+  "output": "CMakeFiles/05_file_practice.dir/05_file_practice.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/06_odd_process.dir/06_odd_process.cpp.o -c /root/Develop/CPP/Learn/03_Process/06_odd_process.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/06_odd_process.cpp",
+  "output": "CMakeFiles/06_odd_process.dir/06_odd_process.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/07_orphan.dir/07_orphan.cpp.o -c /root/Develop/CPP/Learn/03_Process/07_orphan.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/07_orphan.cpp",
+  "output": "CMakeFiles/07_orphan.dir/07_orphan.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/08_pipe.dir/08_pipe.cpp.o -c /root/Develop/CPP/Learn/03_Process/08_pipe.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/08_pipe.cpp",
+  "output": "CMakeFiles/08_pipe.dir/08_pipe.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/09_pipe_self.dir/09_pipe_self.cpp.o -c /root/Develop/CPP/Learn/03_Process/09_pipe_self.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/09_pipe_self.cpp",
+  "output": "CMakeFiles/09_pipe_self.dir/09_pipe_self.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/10_pipe_read.dir/10_pipe_read.cpp.o -c /root/Develop/CPP/Learn/03_Process/10_pipe_read.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/10_pipe_read.cpp",
+  "output": "CMakeFiles/10_pipe_read.dir/10_pipe_read.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/11_pipe_write.dir/11_pipe_write.cpp.o -c /root/Develop/CPP/Learn/03_Process/11_pipe_write.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/11_pipe_write.cpp",
+  "output": "CMakeFiles/11_pipe_write.dir/11_pipe_write.cpp.o"
+}
+]
