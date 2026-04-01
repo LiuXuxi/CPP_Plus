@@ -381,6 +381,130 @@ build 11_pipe_write: CXX_EXECUTABLE_LINKER__11_pipe_write_Debug CMakeFiles/11_pi
   TARGET_FILE = 11_pipe_write
   TARGET_PDB = 11_pipe_write.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 13_signal
+
+
+#############################################
+# Order-only phony target for 13_signal
+
+build cmake_object_order_depends_target_13_signal: phony || CMakeFiles/13_signal.dir
+
+build CMakeFiles/13_signal.dir/13_signal.cpp.o: CXX_COMPILER__13_signal_unscanned_Debug /root/Develop/CPP/Learn/03_Process/13_signal.cpp || cmake_object_order_depends_target_13_signal
+  DEP_FILE = CMakeFiles/13_signal.dir/13_signal.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/13_signal.dir
+  OBJECT_FILE_DIR = CMakeFiles/13_signal.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13_signal
+
+
+#############################################
+# Link the executable 13_signal
+
+build 13_signal: CXX_EXECUTABLE_LINKER__13_signal_Debug CMakeFiles/13_signal.dir/13_signal.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/13_signal.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13_signal
+  TARGET_PDB = 13_signal.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 14_signal_defunt
+
+
+#############################################
+# Order-only phony target for 14_signal_defunt
+
+build cmake_object_order_depends_target_14_signal_defunt: phony || CMakeFiles/14_signal_defunt.dir
+
+build CMakeFiles/14_signal_defunt.dir/14_signal_defunt.cpp.o: CXX_COMPILER__14_signal_defunt_unscanned_Debug /root/Develop/CPP/Learn/03_Process/14_signal_defunt.cpp || cmake_object_order_depends_target_14_signal_defunt
+  DEP_FILE = CMakeFiles/14_signal_defunt.dir/14_signal_defunt.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/14_signal_defunt.dir
+  OBJECT_FILE_DIR = CMakeFiles/14_signal_defunt.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 14_signal_defunt
+
+
+#############################################
+# Link the executable 14_signal_defunt
+
+build 14_signal_defunt: CXX_EXECUTABLE_LINKER__14_signal_defunt_Debug CMakeFiles/14_signal_defunt.dir/14_signal_defunt.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/14_signal_defunt.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 14_signal_defunt
+  TARGET_PDB = 14_signal_defunt.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 15_kill_raise
+
+
+#############################################
+# Order-only phony target for 15_kill_raise
+
+build cmake_object_order_depends_target_15_kill_raise: phony || CMakeFiles/15_kill_raise.dir
+
+build CMakeFiles/15_kill_raise.dir/15_kill_raise.cpp.o: CXX_COMPILER__15_kill_raise_unscanned_Debug /root/Develop/CPP/Learn/03_Process/15_kill_raise.cpp || cmake_object_order_depends_target_15_kill_raise
+  DEP_FILE = CMakeFiles/15_kill_raise.dir/15_kill_raise.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/15_kill_raise.dir
+  OBJECT_FILE_DIR = CMakeFiles/15_kill_raise.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 15_kill_raise
+
+
+#############################################
+# Link the executable 15_kill_raise
+
+build 15_kill_raise: CXX_EXECUTABLE_LINKER__15_kill_raise_Debug CMakeFiles/15_kill_raise.dir/15_kill_raise.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/15_kill_raise.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 15_kill_raise
+  TARGET_PDB = 15_kill_raise.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 16_sigprocmask
+
+
+#############################################
+# Order-only phony target for 16_sigprocmask
+
+build cmake_object_order_depends_target_16_sigprocmask: phony || CMakeFiles/16_sigprocmask.dir
+
+build CMakeFiles/16_sigprocmask.dir/16_sigprocmask.cpp.o: CXX_COMPILER__16_sigprocmask_unscanned_Debug /root/Develop/CPP/Learn/03_Process/16_sigprocmask.cpp || cmake_object_order_depends_target_16_sigprocmask
+  DEP_FILE = CMakeFiles/16_sigprocmask.dir/16_sigprocmask.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/16_sigprocmask.dir
+  OBJECT_FILE_DIR = CMakeFiles/16_sigprocmask.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 16_sigprocmask
+
+
+#############################################
+# Link the executable 16_sigprocmask
+
+build 16_sigprocmask: CXX_EXECUTABLE_LINKER__16_sigprocmask_Debug CMakeFiles/16_sigprocmask.dir/16_sigprocmask.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/16_sigprocmask.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 16_sigprocmask
+  TARGET_PDB = 16_sigprocmask.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -416,7 +540,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/03_Process/build
 
-build all: phony 01_fork 02_multifork 03_exit 04_wait 05_file_practice 06_odd_process 07_orphan 08_pipe 09_pipe_self 10_pipe_read 11_pipe_write
+build all: phony 01_fork 02_multifork 03_exit 04_wait 05_file_practice 06_odd_process 07_orphan 08_pipe 09_pipe_self 10_pipe_read 11_pipe_write 13_signal 14_signal_defunt 15_kill_raise 16_sigprocmask
 
 # =============================================================================
 # Built-in targets

@@ -64,5 +64,29 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/11_pipe_write.dir/11_pipe_write.cpp.o -c /root/Develop/CPP/Learn/03_Process/11_pipe_write.cpp",
   "file": "/root/Develop/CPP/Learn/03_Process/11_pipe_write.cpp",
   "output": "CMakeFiles/11_pipe_write.dir/11_pipe_write.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/13_signal.dir/13_signal.cpp.o -c /root/Develop/CPP/Learn/03_Process/13_signal.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/13_signal.cpp",
+  "output": "CMakeFiles/13_signal.dir/13_signal.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/14_signal_defunt.dir/14_signal_defunt.cpp.o -c /root/Develop/CPP/Learn/03_Process/14_signal_defunt.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/14_signal_defunt.cpp",
+  "output": "CMakeFiles/14_signal_defunt.dir/14_signal_defunt.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/15_kill_raise.dir/15_kill_raise.cpp.o -c /root/Develop/CPP/Learn/03_Process/15_kill_raise.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/15_kill_raise.cpp",
+  "output": "CMakeFiles/15_kill_raise.dir/15_kill_raise.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/16_sigprocmask.dir/16_sigprocmask.cpp.o -c /root/Develop/CPP/Learn/03_Process/16_sigprocmask.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/16_sigprocmask.cpp",
+  "output": "CMakeFiles/16_sigprocmask.dir/16_sigprocmask.cpp.o"
 }
 ]
