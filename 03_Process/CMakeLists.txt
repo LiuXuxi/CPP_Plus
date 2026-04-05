@@ -17,3 +17,5 @@ add_executable(13_signal 13_signal.cpp)
 add_executable(14_signal_defunt 14_signal_defunt.cpp)
 add_executable(15_kill_raise 15_kill_raise.cpp)
 add_executable(16_sigprocmask 16_sigprocmask.cpp)
+
+add_subdirectory(20_sem)

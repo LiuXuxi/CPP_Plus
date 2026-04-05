@@ -88,5 +88,29 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/16_sigprocmask.dir/16_sigprocmask.cpp.o -c /root/Develop/CPP/Learn/03_Process/16_sigprocmask.cpp",
   "file": "/root/Develop/CPP/Learn/03_Process/16_sigprocmask.cpp",
   "output": "CMakeFiles/16_sigprocmask.dir/16_sigprocmask.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o 20_sem/CMakeFiles/17_sem_send.dir/sem.cpp.o -c /root/Develop/CPP/Learn/03_Process/20_sem/sem.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/20_sem/sem.cpp",
+  "output": "20_sem/CMakeFiles/17_sem_send.dir/sem.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o 20_sem/CMakeFiles/17_sem_send.dir/send.cpp.o -c /root/Develop/CPP/Learn/03_Process/20_sem/send.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/20_sem/send.cpp",
+  "output": "20_sem/CMakeFiles/17_sem_send.dir/send.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o 20_sem/CMakeFiles/17_sem_recv.dir/sem.cpp.o -c /root/Develop/CPP/Learn/03_Process/20_sem/sem.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/20_sem/sem.cpp",
+  "output": "20_sem/CMakeFiles/17_sem_recv.dir/sem.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/03_Process/build",
+  "command": "/usr/bin/g++ -g -o 20_sem/CMakeFiles/17_sem_recv.dir/recv.cpp.o -c /root/Develop/CPP/Learn/03_Process/20_sem/recv.cpp",
+  "file": "/root/Develop/CPP/Learn/03_Process/20_sem/recv.cpp",
+  "output": "20_sem/CMakeFiles/17_sem_recv.dir/recv.cpp.o"
 }
 ]
