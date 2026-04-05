@@ -1,0 +1,23 @@
+# ninja log v5
+0	37	1775400470	CMakeFiles/01_pthread_create.dir/01_pthread_create.cpp.o	2894d0146d742a29
+0	34	1775400784	01_pthread_create	799b8fb868f829e8
+0	21	1775401343	CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o	62028cb5f8e169a
+21	58	1775401343	02_pthead_exit	e2d989f614a9b7ad
+0	21	1775401435	CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o	62028cb5f8e169a
+21	56	1775401435	02_pthead_exit	e2d989f614a9b7ad
+1	23	1775401456	CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o	62028cb5f8e169a
+23	57	1775401456	02_pthead_exit	e2d989f614a9b7ad
+0	27	1775401469	CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o	62028cb5f8e169a
+27	64	1775401469	02_pthead_exit	e2d989f614a9b7ad
+0	22	1775401488	CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o	62028cb5f8e169a
+22	61	1775401488	02_pthead_exit	e2d989f614a9b7ad
+1	26	1775402370	CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o	62028cb5f8e169a
+1	31	1775402370	CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o	4193c0c833455d05
+26	71	1775402371	02_pthead_exit	e2d989f614a9b7ad
+31	73	1775402371	03_pthread_exit_argv	bf7e44abf1c6d6d8
+0	29	1775403423	CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o	78e72867eb1090ea
+29	45	1775403423	04_pthread_clean	50f231f3a7b20925
+1	29	1775403611	CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o	78e72867eb1090ea
+29	44	1775403611	04_pthread_clean	50f231f3a7b20925
+0	34	1775403773	CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o	78e72867eb1090ea
+35	51	1775403773	04_pthread_clean	50f231f3a7b20925

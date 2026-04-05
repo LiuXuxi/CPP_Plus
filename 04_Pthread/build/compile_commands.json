@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/01_pthread_create.dir/01_pthread_create.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/01_pthread_create.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/01_pthread_create.cpp",
+  "output": "CMakeFiles/01_pthread_create.dir/01_pthread_create.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/02_pthead_exit.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/02_pthead_exit.cpp",
+  "output": "CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/03_pthread_exit_argv.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/03_pthread_exit_argv.cpp",
+  "output": "CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o -c /root/Develop/CPP/Learn/04_Pthread/04_pthread_clean.c",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/04_pthread_clean.c",
+  "output": "CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o"
+}
+]
