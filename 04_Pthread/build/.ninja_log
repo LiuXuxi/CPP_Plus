@@ -21,3 +21,13 @@
 29	44	1775403611	04_pthread_clean	50f231f3a7b20925
 0	34	1775403773	CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o	78e72867eb1090ea
 35	51	1775403773	04_pthread_clean	50f231f3a7b20925
+1	105	1775447818	CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o	645c3583b4a0892e
+0	106	1775447818	CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o	78e72867eb1090ea
+106	145	1775447818	04_pthread_clean	50f231f3a7b20925
+105	164	1775447818	05_pthread_mutex	8532ff700788eac9
+0	41	1775447873	CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o	645c3583b4a0892e
+41	79	1775447873	05_pthread_mutex	8532ff700788eac9
+0	35	1775448070	CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o	645c3583b4a0892e
+35	72	1775448070	05_pthread_mutex	8532ff700788eac9
+0	24	1775448345	CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o	645c3583b4a0892e
+24	58	1775448345	05_pthread_mutex	8532ff700788eac9

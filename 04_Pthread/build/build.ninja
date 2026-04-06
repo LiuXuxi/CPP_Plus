@@ -168,6 +168,38 @@ build 04_pthread_clean: C_EXECUTABLE_LINKER__04_pthread_clean_Debug CMakeFiles/0
   TARGET_FILE = 04_pthread_clean
   TARGET_PDB = 04_pthread_clean.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 05_pthread_mutex
+
+
+#############################################
+# Order-only phony target for 05_pthread_mutex
+
+build cmake_object_order_depends_target_05_pthread_mutex: phony || CMakeFiles/05_pthread_mutex.dir
+
+build CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o: CXX_COMPILER__05_pthread_mutex_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp || cmake_object_order_depends_target_05_pthread_mutex
+  DEP_FILE = CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/05_pthread_mutex.dir
+  OBJECT_FILE_DIR = CMakeFiles/05_pthread_mutex.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 05_pthread_mutex
+
+
+#############################################
+# Link the executable 05_pthread_mutex
+
+build 05_pthread_mutex: CXX_EXECUTABLE_LINKER__05_pthread_mutex_Debug CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/05_pthread_mutex.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 05_pthread_mutex
+  TARGET_PDB = 05_pthread_mutex.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -203,7 +235,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/04_Pthread/build
 
-build all: phony 01_pthread_create 02_pthead_exit 03_pthread_exit_argv 04_pthread_clean
+build all: phony 01_pthread_create 02_pthead_exit 03_pthread_exit_argv 04_pthread_clean 05_pthread_mutex
 
 # =============================================================================
 # Built-in targets

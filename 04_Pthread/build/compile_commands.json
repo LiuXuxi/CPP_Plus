@@ -22,5 +22,11 @@
   "command": "/usr/bin/gcc -g -o CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o -c /root/Develop/CPP/Learn/04_Pthread/04_pthread_clean.c",
   "file": "/root/Develop/CPP/Learn/04_Pthread/04_pthread_clean.c",
   "output": "CMakeFiles/04_pthread_clean.dir/04_pthread_clean.c.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp",
+  "output": "CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o"
 }
 ]
