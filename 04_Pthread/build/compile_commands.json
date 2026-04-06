@@ -34,5 +34,11 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/06_sem.dir/06_sem.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/06_sem.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/06_sem.cpp",
   "output": "CMakeFiles/06_sem.dir/06_sem.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/07_cond.dir/07_cond.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/07_cond.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/07_cond.cpp",
+  "output": "CMakeFiles/07_cond.dir/07_cond.cpp.o"
 }
 ]
