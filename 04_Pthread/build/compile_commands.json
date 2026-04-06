@@ -28,5 +28,11 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp",
   "output": "CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/06_sem.dir/06_sem.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/06_sem.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/06_sem.cpp",
+  "output": "CMakeFiles/06_sem.dir/06_sem.cpp.o"
 }
 ]

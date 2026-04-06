@@ -56,7 +56,7 @@ int main(){
     }
 
     //创建分支线程2
-    if((pthread_create(&tid1,NULL,task2,NULL))!=0){
+    if((pthread_create(&tid2,NULL,task2,NULL))!=0){
         printf("pthread2 create failed\n");
         return -1;
     }

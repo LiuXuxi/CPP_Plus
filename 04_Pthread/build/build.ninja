@@ -200,6 +200,38 @@ build 05_pthread_mutex: CXX_EXECUTABLE_LINKER__05_pthread_mutex_Debug CMakeFiles
   TARGET_FILE = 05_pthread_mutex
   TARGET_PDB = 05_pthread_mutex.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 06_sem
+
+
+#############################################
+# Order-only phony target for 06_sem
+
+build cmake_object_order_depends_target_06_sem: phony || CMakeFiles/06_sem.dir
+
+build CMakeFiles/06_sem.dir/06_sem.cpp.o: CXX_COMPILER__06_sem_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/06_sem.cpp || cmake_object_order_depends_target_06_sem
+  DEP_FILE = CMakeFiles/06_sem.dir/06_sem.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/06_sem.dir
+  OBJECT_FILE_DIR = CMakeFiles/06_sem.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 06_sem
+
+
+#############################################
+# Link the executable 06_sem
+
+build 06_sem: CXX_EXECUTABLE_LINKER__06_sem_Debug CMakeFiles/06_sem.dir/06_sem.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/06_sem.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 06_sem
+  TARGET_PDB = 06_sem.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -235,7 +267,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/04_Pthread/build
 
-build all: phony 01_pthread_create 02_pthead_exit 03_pthread_exit_argv 04_pthread_clean 05_pthread_mutex
+build all: phony 01_pthread_create 02_pthead_exit 03_pthread_exit_argv 04_pthread_clean 05_pthread_mutex 06_sem
 
 # =============================================================================
 # Built-in targets
