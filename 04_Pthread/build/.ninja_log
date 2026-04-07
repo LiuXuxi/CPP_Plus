@@ -65,3 +65,13 @@
 27	57	1775476368	07_cond	db3d06619adad885
 0	28	1775476489	CMakeFiles/07_cond.dir/07_cond.cpp.o	129194260f18468c
 28	62	1775476490	07_cond	db3d06619adad885
+1	49	1775561955	CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o	4193c0c833455d05
+1	49	1775561955	CMakeFiles/07_cond.dir/07_cond.cpp.o	129194260f18468c
+2	50	1775561955	CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o	81be00d45fd7de5a
+49	111	1775561955	07_cond	db3d06619adad885
+49	112	1775561955	03_pthread_exit_argv	bf7e44abf1c6d6d8
+50	113	1775561955	08_pthread_pratice	a2a868c1de0a83d8
+0	31	1775566077	CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o	f658b25606b221c0
+31	79	1775566077	09_sem_pratice	9f39985847a3cba
+0	25	1775566118	CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o	f658b25606b221c0
+25	70	1775566119	09_sem_pratice	9f39985847a3cba

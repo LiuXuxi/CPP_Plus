@@ -264,6 +264,70 @@ build 07_cond: CXX_EXECUTABLE_LINKER__07_cond_Debug CMakeFiles/07_cond.dir/07_co
   TARGET_FILE = 07_cond
   TARGET_PDB = 07_cond.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 08_pthread_pratice
+
+
+#############################################
+# Order-only phony target for 08_pthread_pratice
+
+build cmake_object_order_depends_target_08_pthread_pratice: phony || CMakeFiles/08_pthread_pratice.dir
+
+build CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o: CXX_COMPILER__08_pthread_pratice_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/08_pthread_pratice.cpp || cmake_object_order_depends_target_08_pthread_pratice
+  DEP_FILE = CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/08_pthread_pratice.dir
+  OBJECT_FILE_DIR = CMakeFiles/08_pthread_pratice.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 08_pthread_pratice
+
+
+#############################################
+# Link the executable 08_pthread_pratice
+
+build 08_pthread_pratice: CXX_EXECUTABLE_LINKER__08_pthread_pratice_Debug CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/08_pthread_pratice.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 08_pthread_pratice
+  TARGET_PDB = 08_pthread_pratice.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 09_sem_pratice
+
+
+#############################################
+# Order-only phony target for 09_sem_pratice
+
+build cmake_object_order_depends_target_09_sem_pratice: phony || CMakeFiles/09_sem_pratice.dir
+
+build CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o: CXX_COMPILER__09_sem_pratice_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/09_sem_pratice.cpp || cmake_object_order_depends_target_09_sem_pratice
+  DEP_FILE = CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/09_sem_pratice.dir
+  OBJECT_FILE_DIR = CMakeFiles/09_sem_pratice.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 09_sem_pratice
+
+
+#############################################
+# Link the executable 09_sem_pratice
+
+build 09_sem_pratice: CXX_EXECUTABLE_LINKER__09_sem_pratice_Debug CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/09_sem_pratice.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 09_sem_pratice
+  TARGET_PDB = 09_sem_pratice.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -299,7 +363,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/04_Pthread/build
 
-build all: phony 01_pthread_create 02_pthead_exit 03_pthread_exit_argv 04_pthread_clean 05_pthread_mutex 06_sem 07_cond
+build all: phony 01_pthread_create 02_pthead_exit 03_pthread_exit_argv 04_pthread_clean 05_pthread_mutex 06_sem 07_cond 08_pthread_pratice 09_sem_pratice
 
 # =============================================================================
 # Built-in targets

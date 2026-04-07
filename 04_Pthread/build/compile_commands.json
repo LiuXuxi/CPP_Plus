@@ -40,5 +40,17 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/07_cond.dir/07_cond.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/07_cond.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/07_cond.cpp",
   "output": "CMakeFiles/07_cond.dir/07_cond.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/08_pthread_pratice.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/08_pthread_pratice.cpp",
+  "output": "CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/09_sem_pratice.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/09_sem_pratice.cpp",
+  "output": "CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o"
 }
 ]
