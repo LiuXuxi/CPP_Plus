@@ -8,6 +8,8 @@ find_package(Threads REQUIRED)
 # 2. 全局链接：此行之后的所有可执行文件都会自动链接 pthread
 link_libraries(Threads::Threads)
 
+set(CMAKE_CXX_STANDARD 14)
+
 add_executable(01_pthread_create 01_pthread_create.cpp)
 add_executable(02_pthead_exit 02_pthead_exit.cpp)
 add_executable(03_pthread_exit_argv 03_pthread_exit_argv.cpp)
@@ -17,3 +19,6 @@ add_executable(06_sem 06_sem.cpp)
 add_executable(07_cond 07_cond.cpp)
 add_executable(08_pthread_pratice 08_pthread_pratice.cpp)
 add_executable(09_sem_pratice 09_sem_pratice.cpp)
+add_executable(10_thread 10_thread.cpp)
+add_executable(11_thread_mutex 11_thread_mutex.cpp)
+add_executable(12_thread_condition 12_thread_condition.cpp)

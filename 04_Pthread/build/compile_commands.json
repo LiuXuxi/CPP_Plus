@@ -1,19 +1,19 @@
 [
 {
   "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/01_pthread_create.dir/01_pthread_create.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/01_pthread_create.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/01_pthread_create.dir/01_pthread_create.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/01_pthread_create.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/01_pthread_create.cpp",
   "output": "CMakeFiles/01_pthread_create.dir/01_pthread_create.cpp.o"
 },
 {
   "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/02_pthead_exit.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/02_pthead_exit.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/02_pthead_exit.cpp",
   "output": "CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o"
 },
 {
   "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/03_pthread_exit_argv.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/03_pthread_exit_argv.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/03_pthread_exit_argv.cpp",
   "output": "CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o"
 },
@@ -25,32 +25,50 @@
 },
 {
   "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp",
   "output": "CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o"
 },
 {
   "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/06_sem.dir/06_sem.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/06_sem.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/06_sem.dir/06_sem.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/06_sem.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/06_sem.cpp",
   "output": "CMakeFiles/06_sem.dir/06_sem.cpp.o"
 },
 {
   "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/07_cond.dir/07_cond.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/07_cond.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/07_cond.dir/07_cond.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/07_cond.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/07_cond.cpp",
   "output": "CMakeFiles/07_cond.dir/07_cond.cpp.o"
 },
 {
   "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/08_pthread_pratice.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/08_pthread_pratice.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/08_pthread_pratice.cpp",
   "output": "CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o"
 },
 {
   "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
-  "command": "/usr/bin/g++ -g -o CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/09_sem_pratice.cpp",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/09_sem_pratice.cpp",
   "file": "/root/Develop/CPP/Learn/04_Pthread/09_sem_pratice.cpp",
   "output": "CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/10_thread.dir/10_thread.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/10_thread.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/10_thread.cpp",
+  "output": "CMakeFiles/10_thread.dir/10_thread.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/11_thread_mutex.dir/11_thread_mutex.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/11_thread_mutex.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/11_thread_mutex.cpp",
+  "output": "CMakeFiles/11_thread_mutex.dir/11_thread_mutex.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/04_Pthread/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/12_thread_condition.dir/12_thread_condition.cpp.o -c /root/Develop/CPP/Learn/04_Pthread/12_thread_condition.cpp",
+  "file": "/root/Develop/CPP/Learn/04_Pthread/12_thread_condition.cpp",
+  "output": "CMakeFiles/12_thread_condition.dir/12_thread_condition.cpp.o"
 }
 ]

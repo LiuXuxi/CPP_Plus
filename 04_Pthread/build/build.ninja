@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_01_pthread_create: phony || CMakeFiles/0
 
 build CMakeFiles/01_pthread_create.dir/01_pthread_create.cpp.o: CXX_COMPILER__01_pthread_create_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/01_pthread_create.cpp || cmake_object_order_depends_target_01_pthread_create
   DEP_FILE = CMakeFiles/01_pthread_create.dir/01_pthread_create.cpp.o.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/01_pthread_create.dir
   OBJECT_FILE_DIR = CMakeFiles/01_pthread_create.dir
 
@@ -83,7 +83,7 @@ build cmake_object_order_depends_target_02_pthead_exit: phony || CMakeFiles/02_p
 
 build CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o: CXX_COMPILER__02_pthead_exit_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/02_pthead_exit.cpp || cmake_object_order_depends_target_02_pthead_exit
   DEP_FILE = CMakeFiles/02_pthead_exit.dir/02_pthead_exit.cpp.o.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/02_pthead_exit.dir
   OBJECT_FILE_DIR = CMakeFiles/02_pthead_exit.dir
 
@@ -115,7 +115,7 @@ build cmake_object_order_depends_target_03_pthread_exit_argv: phony || CMakeFile
 
 build CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o: CXX_COMPILER__03_pthread_exit_argv_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/03_pthread_exit_argv.cpp || cmake_object_order_depends_target_03_pthread_exit_argv
   DEP_FILE = CMakeFiles/03_pthread_exit_argv.dir/03_pthread_exit_argv.cpp.o.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/03_pthread_exit_argv.dir
   OBJECT_FILE_DIR = CMakeFiles/03_pthread_exit_argv.dir
 
@@ -179,7 +179,7 @@ build cmake_object_order_depends_target_05_pthread_mutex: phony || CMakeFiles/05
 
 build CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o: CXX_COMPILER__05_pthread_mutex_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/05_pthread_mutex.cpp || cmake_object_order_depends_target_05_pthread_mutex
   DEP_FILE = CMakeFiles/05_pthread_mutex.dir/05_pthread_mutex.cpp.o.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/05_pthread_mutex.dir
   OBJECT_FILE_DIR = CMakeFiles/05_pthread_mutex.dir
 
@@ -211,7 +211,7 @@ build cmake_object_order_depends_target_06_sem: phony || CMakeFiles/06_sem.dir
 
 build CMakeFiles/06_sem.dir/06_sem.cpp.o: CXX_COMPILER__06_sem_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/06_sem.cpp || cmake_object_order_depends_target_06_sem
   DEP_FILE = CMakeFiles/06_sem.dir/06_sem.cpp.o.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/06_sem.dir
   OBJECT_FILE_DIR = CMakeFiles/06_sem.dir
 
@@ -243,7 +243,7 @@ build cmake_object_order_depends_target_07_cond: phony || CMakeFiles/07_cond.dir
 
 build CMakeFiles/07_cond.dir/07_cond.cpp.o: CXX_COMPILER__07_cond_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/07_cond.cpp || cmake_object_order_depends_target_07_cond
   DEP_FILE = CMakeFiles/07_cond.dir/07_cond.cpp.o.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/07_cond.dir
   OBJECT_FILE_DIR = CMakeFiles/07_cond.dir
 
@@ -275,7 +275,7 @@ build cmake_object_order_depends_target_08_pthread_pratice: phony || CMakeFiles/
 
 build CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o: CXX_COMPILER__08_pthread_pratice_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/08_pthread_pratice.cpp || cmake_object_order_depends_target_08_pthread_pratice
   DEP_FILE = CMakeFiles/08_pthread_pratice.dir/08_pthread_pratice.cpp.o.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/08_pthread_pratice.dir
   OBJECT_FILE_DIR = CMakeFiles/08_pthread_pratice.dir
 
@@ -307,7 +307,7 @@ build cmake_object_order_depends_target_09_sem_pratice: phony || CMakeFiles/09_s
 
 build CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o: CXX_COMPILER__09_sem_pratice_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/09_sem_pratice.cpp || cmake_object_order_depends_target_09_sem_pratice
   DEP_FILE = CMakeFiles/09_sem_pratice.dir/09_sem_pratice.cpp.o.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/09_sem_pratice.dir
   OBJECT_FILE_DIR = CMakeFiles/09_sem_pratice.dir
 
@@ -327,6 +327,102 @@ build 09_sem_pratice: CXX_EXECUTABLE_LINKER__09_sem_pratice_Debug CMakeFiles/09_
   PRE_LINK = :
   TARGET_FILE = 09_sem_pratice
   TARGET_PDB = 09_sem_pratice.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10_thread
+
+
+#############################################
+# Order-only phony target for 10_thread
+
+build cmake_object_order_depends_target_10_thread: phony || CMakeFiles/10_thread.dir
+
+build CMakeFiles/10_thread.dir/10_thread.cpp.o: CXX_COMPILER__10_thread_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/10_thread.cpp || cmake_object_order_depends_target_10_thread
+  DEP_FILE = CMakeFiles/10_thread.dir/10_thread.cpp.o.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles/10_thread.dir
+  OBJECT_FILE_DIR = CMakeFiles/10_thread.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10_thread
+
+
+#############################################
+# Link the executable 10_thread
+
+build 10_thread: CXX_EXECUTABLE_LINKER__10_thread_Debug CMakeFiles/10_thread.dir/10_thread.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/10_thread.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10_thread
+  TARGET_PDB = 10_thread.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 11_thread_mutex
+
+
+#############################################
+# Order-only phony target for 11_thread_mutex
+
+build cmake_object_order_depends_target_11_thread_mutex: phony || CMakeFiles/11_thread_mutex.dir
+
+build CMakeFiles/11_thread_mutex.dir/11_thread_mutex.cpp.o: CXX_COMPILER__11_thread_mutex_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/11_thread_mutex.cpp || cmake_object_order_depends_target_11_thread_mutex
+  DEP_FILE = CMakeFiles/11_thread_mutex.dir/11_thread_mutex.cpp.o.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles/11_thread_mutex.dir
+  OBJECT_FILE_DIR = CMakeFiles/11_thread_mutex.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 11_thread_mutex
+
+
+#############################################
+# Link the executable 11_thread_mutex
+
+build 11_thread_mutex: CXX_EXECUTABLE_LINKER__11_thread_mutex_Debug CMakeFiles/11_thread_mutex.dir/11_thread_mutex.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/11_thread_mutex.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 11_thread_mutex
+  TARGET_PDB = 11_thread_mutex.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 12_thread_condition
+
+
+#############################################
+# Order-only phony target for 12_thread_condition
+
+build cmake_object_order_depends_target_12_thread_condition: phony || CMakeFiles/12_thread_condition.dir
+
+build CMakeFiles/12_thread_condition.dir/12_thread_condition.cpp.o: CXX_COMPILER__12_thread_condition_unscanned_Debug /root/Develop/CPP/Learn/04_Pthread/12_thread_condition.cpp || cmake_object_order_depends_target_12_thread_condition
+  DEP_FILE = CMakeFiles/12_thread_condition.dir/12_thread_condition.cpp.o.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles/12_thread_condition.dir
+  OBJECT_FILE_DIR = CMakeFiles/12_thread_condition.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 12_thread_condition
+
+
+#############################################
+# Link the executable 12_thread_condition
+
+build 12_thread_condition: CXX_EXECUTABLE_LINKER__12_thread_condition_Debug CMakeFiles/12_thread_condition.dir/12_thread_condition.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/12_thread_condition.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 12_thread_condition
+  TARGET_PDB = 12_thread_condition.dbg
 
 
 #############################################
@@ -363,7 +459,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/04_Pthread/build
 
-build all: phony 01_pthread_create 02_pthead_exit 03_pthread_exit_argv 04_pthread_clean 05_pthread_mutex 06_sem 07_cond 08_pthread_pratice 09_sem_pratice
+build all: phony 01_pthread_create 02_pthead_exit 03_pthread_exit_argv 04_pthread_clean 05_pthread_mutex 06_sem 07_cond 08_pthread_pratice 09_sem_pratice 10_thread 11_thread_mutex 12_thread_condition
 
 # =============================================================================
 # Built-in targets
