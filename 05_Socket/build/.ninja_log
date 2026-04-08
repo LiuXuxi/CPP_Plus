@@ -1,0 +1,11 @@
+# ninja log v5
+0	141	1775626362	CMakeFiles/01_bytes_ptr.dir/01_bytes_ptr.cpp.o	99319fcc551ba4f0
+141	179	1775626362	01_bytes_ptr	e474d74615d4d0b6
+0	127	1775626508	CMakeFiles/01_bytes_union.dir/01_bytes_union.cpp.o	461852ec882c8d10
+127	168	1775626508	01_bytes_union	cb4adfae58500a24
+0	138	1775626532	CMakeFiles/01_bytes_ptr.dir/01_bytes_ptr.cpp.o	99319fcc551ba4f0
+138	176	1775626532	01_bytes_ptr	e474d74615d4d0b6
+1	143	1775628869	CMakeFiles/02_htonl.dir/02_htonl.cpp.o	11ac2bcbce17872f
+143	185	1775628869	02_htonl	32cd3dc3a0099307
+0	26	1775629376	CMakeFiles/03_address.dir/03_address.cpp.o	d72679fd3b510b23
+26	60	1775629377	03_address	640bb6e59ed76cd2

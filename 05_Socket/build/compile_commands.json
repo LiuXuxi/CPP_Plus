@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/01_bytes_ptr.dir/01_bytes_ptr.cpp.o -c /root/Develop/CPP/Learn/05_Socket/01_bytes_ptr.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/01_bytes_ptr.cpp",
+  "output": "CMakeFiles/01_bytes_ptr.dir/01_bytes_ptr.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/01_bytes_union.dir/01_bytes_union.cpp.o -c /root/Develop/CPP/Learn/05_Socket/01_bytes_union.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/01_bytes_union.cpp",
+  "output": "CMakeFiles/01_bytes_union.dir/01_bytes_union.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/02_htonl.dir/02_htonl.cpp.o -c /root/Develop/CPP/Learn/05_Socket/02_htonl.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/02_htonl.cpp",
+  "output": "CMakeFiles/02_htonl.dir/02_htonl.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/03_address.dir/03_address.cpp.o -c /root/Develop/CPP/Learn/05_Socket/03_address.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/03_address.cpp",
+  "output": "CMakeFiles/03_address.dir/03_address.cpp.o"
+}
+]
