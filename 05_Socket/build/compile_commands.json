@@ -22,5 +22,23 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/03_address.dir/03_address.cpp.o -c /root/Develop/CPP/Learn/05_Socket/03_address.cpp",
   "file": "/root/Develop/CPP/Learn/05_Socket/03_address.cpp",
   "output": "CMakeFiles/03_address.dir/03_address.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/06_tcp_loop_server.dir/06_tcp_loop_server.cpp.o -c /root/Develop/CPP/Learn/05_Socket/06_tcp_loop_server.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/06_tcp_loop_server.cpp",
+  "output": "CMakeFiles/06_tcp_loop_server.dir/06_tcp_loop_server.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/07_tcp_loop_proc_server.dir/07_tcp_loop_proc_server.cpp.o -c /root/Develop/CPP/Learn/05_Socket/07_tcp_loop_proc_server.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/07_tcp_loop_proc_server.cpp",
+  "output": "CMakeFiles/07_tcp_loop_proc_server.dir/07_tcp_loop_proc_server.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/08_tcp_loop_thread_server.dir/08_tcp_loop_thread_server.cpp.o -c /root/Develop/CPP/Learn/05_Socket/08_tcp_loop_thread_server.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/08_tcp_loop_thread_server.cpp",
+  "output": "CMakeFiles/08_tcp_loop_thread_server.dir/08_tcp_loop_thread_server.cpp.o"
 }
 ]
