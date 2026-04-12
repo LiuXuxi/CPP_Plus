@@ -40,5 +40,17 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/08_tcp_loop_thread_server.dir/08_tcp_loop_thread_server.cpp.o -c /root/Develop/CPP/Learn/05_Socket/08_tcp_loop_thread_server.cpp",
   "file": "/root/Develop/CPP/Learn/05_Socket/08_tcp_loop_thread_server.cpp",
   "output": "CMakeFiles/08_tcp_loop_thread_server.dir/08_tcp_loop_thread_server.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/09_select.dir/09_select.cpp.o -c /root/Develop/CPP/Learn/05_Socket/09_select.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/09_select.cpp",
+  "output": "CMakeFiles/09_select.dir/09_select.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/10_select_loop_server.dir/10_select_loop_server.cpp.o -c /root/Develop/CPP/Learn/05_Socket/10_select_loop_server.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/10_select_loop_server.cpp",
+  "output": "CMakeFiles/10_select_loop_server.dir/10_select_loop_server.cpp.o"
 }
 ]

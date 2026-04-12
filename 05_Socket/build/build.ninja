@@ -264,6 +264,70 @@ build 08_tcp_loop_thread_server: CXX_EXECUTABLE_LINKER__08_tcp_loop_thread_serve
   TARGET_FILE = 08_tcp_loop_thread_server
   TARGET_PDB = 08_tcp_loop_thread_server.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 09_select
+
+
+#############################################
+# Order-only phony target for 09_select
+
+build cmake_object_order_depends_target_09_select: phony || CMakeFiles/09_select.dir
+
+build CMakeFiles/09_select.dir/09_select.cpp.o: CXX_COMPILER__09_select_unscanned_Debug /root/Develop/CPP/Learn/05_Socket/09_select.cpp || cmake_object_order_depends_target_09_select
+  DEP_FILE = CMakeFiles/09_select.dir/09_select.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/09_select.dir
+  OBJECT_FILE_DIR = CMakeFiles/09_select.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 09_select
+
+
+#############################################
+# Link the executable 09_select
+
+build 09_select: CXX_EXECUTABLE_LINKER__09_select_Debug CMakeFiles/09_select.dir/09_select.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/09_select.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 09_select
+  TARGET_PDB = 09_select.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10_select_loop_server
+
+
+#############################################
+# Order-only phony target for 10_select_loop_server
+
+build cmake_object_order_depends_target_10_select_loop_server: phony || CMakeFiles/10_select_loop_server.dir
+
+build CMakeFiles/10_select_loop_server.dir/10_select_loop_server.cpp.o: CXX_COMPILER__10_select_loop_server_unscanned_Debug /root/Develop/CPP/Learn/05_Socket/10_select_loop_server.cpp || cmake_object_order_depends_target_10_select_loop_server
+  DEP_FILE = CMakeFiles/10_select_loop_server.dir/10_select_loop_server.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/10_select_loop_server.dir
+  OBJECT_FILE_DIR = CMakeFiles/10_select_loop_server.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10_select_loop_server
+
+
+#############################################
+# Link the executable 10_select_loop_server
+
+build 10_select_loop_server: CXX_EXECUTABLE_LINKER__10_select_loop_server_Debug CMakeFiles/10_select_loop_server.dir/10_select_loop_server.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/10_select_loop_server.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10_select_loop_server
+  TARGET_PDB = 10_select_loop_server.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -299,7 +363,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/05_Socket/build
 
-build all: phony 01_bytes_ptr 01_bytes_union 02_htonl 03_address 06_tcp_loop_server 07_tcp_loop_proc_server 08_tcp_loop_thread_server
+build all: phony 01_bytes_ptr 01_bytes_union 02_htonl 03_address 06_tcp_loop_server 07_tcp_loop_proc_server 08_tcp_loop_thread_server 09_select 10_select_loop_server
 
 # =============================================================================
 # Built-in targets
