@@ -328,6 +328,102 @@ build 10_select_loop_server: CXX_EXECUTABLE_LINKER__10_select_loop_server_Debug 
   TARGET_FILE = 10_select_loop_server
   TARGET_PDB = 10_select_loop_server.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 12_epoll_tcp_server
+
+
+#############################################
+# Order-only phony target for 12_epoll_tcp_server
+
+build cmake_object_order_depends_target_12_epoll_tcp_server: phony || CMakeFiles/12_epoll_tcp_server.dir
+
+build CMakeFiles/12_epoll_tcp_server.dir/12_epoll_tcp_server.cpp.o: CXX_COMPILER__12_epoll_tcp_server_unscanned_Debug /root/Develop/CPP/Learn/05_Socket/12_epoll_tcp_server.cpp || cmake_object_order_depends_target_12_epoll_tcp_server
+  DEP_FILE = CMakeFiles/12_epoll_tcp_server.dir/12_epoll_tcp_server.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/12_epoll_tcp_server.dir
+  OBJECT_FILE_DIR = CMakeFiles/12_epoll_tcp_server.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 12_epoll_tcp_server
+
+
+#############################################
+# Link the executable 12_epoll_tcp_server
+
+build 12_epoll_tcp_server: CXX_EXECUTABLE_LINKER__12_epoll_tcp_server_Debug CMakeFiles/12_epoll_tcp_server.dir/12_epoll_tcp_server.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/12_epoll_tcp_server.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 12_epoll_tcp_server
+  TARGET_PDB = 12_epoll_tcp_server.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13_epoll_LT
+
+
+#############################################
+# Order-only phony target for 13_epoll_LT
+
+build cmake_object_order_depends_target_13_epoll_LT: phony || CMakeFiles/13_epoll_LT.dir
+
+build CMakeFiles/13_epoll_LT.dir/13_epoll_LT.cpp.o: CXX_COMPILER__13_epoll_LT_unscanned_Debug /root/Develop/CPP/Learn/05_Socket/13_epoll_LT.cpp || cmake_object_order_depends_target_13_epoll_LT
+  DEP_FILE = CMakeFiles/13_epoll_LT.dir/13_epoll_LT.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/13_epoll_LT.dir
+  OBJECT_FILE_DIR = CMakeFiles/13_epoll_LT.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13_epoll_LT
+
+
+#############################################
+# Link the executable 13_epoll_LT
+
+build 13_epoll_LT: CXX_EXECUTABLE_LINKER__13_epoll_LT_Debug CMakeFiles/13_epoll_LT.dir/13_epoll_LT.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/13_epoll_LT.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13_epoll_LT
+  TARGET_PDB = 13_epoll_LT.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 14_epoll_ET
+
+
+#############################################
+# Order-only phony target for 14_epoll_ET
+
+build cmake_object_order_depends_target_14_epoll_ET: phony || CMakeFiles/14_epoll_ET.dir
+
+build CMakeFiles/14_epoll_ET.dir/14_epoll_ET.cpp.o: CXX_COMPILER__14_epoll_ET_unscanned_Debug /root/Develop/CPP/Learn/05_Socket/14_epoll_ET.cpp || cmake_object_order_depends_target_14_epoll_ET
+  DEP_FILE = CMakeFiles/14_epoll_ET.dir/14_epoll_ET.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/14_epoll_ET.dir
+  OBJECT_FILE_DIR = CMakeFiles/14_epoll_ET.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 14_epoll_ET
+
+
+#############################################
+# Link the executable 14_epoll_ET
+
+build 14_epoll_ET: CXX_EXECUTABLE_LINKER__14_epoll_ET_Debug CMakeFiles/14_epoll_ET.dir/14_epoll_ET.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/14_epoll_ET.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 14_epoll_ET
+  TARGET_PDB = 14_epoll_ET.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -363,7 +459,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/05_Socket/build
 
-build all: phony 01_bytes_ptr 01_bytes_union 02_htonl 03_address 06_tcp_loop_server 07_tcp_loop_proc_server 08_tcp_loop_thread_server 09_select 10_select_loop_server
+build all: phony 01_bytes_ptr 01_bytes_union 02_htonl 03_address 06_tcp_loop_server 07_tcp_loop_proc_server 08_tcp_loop_thread_server 09_select 10_select_loop_server 12_epoll_tcp_server 13_epoll_LT 14_epoll_ET
 
 # =============================================================================
 # Built-in targets

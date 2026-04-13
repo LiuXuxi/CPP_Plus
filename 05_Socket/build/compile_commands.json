@@ -52,5 +52,23 @@
   "command": "/usr/bin/g++ -g -o CMakeFiles/10_select_loop_server.dir/10_select_loop_server.cpp.o -c /root/Develop/CPP/Learn/05_Socket/10_select_loop_server.cpp",
   "file": "/root/Develop/CPP/Learn/05_Socket/10_select_loop_server.cpp",
   "output": "CMakeFiles/10_select_loop_server.dir/10_select_loop_server.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/12_epoll_tcp_server.dir/12_epoll_tcp_server.cpp.o -c /root/Develop/CPP/Learn/05_Socket/12_epoll_tcp_server.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/12_epoll_tcp_server.cpp",
+  "output": "CMakeFiles/12_epoll_tcp_server.dir/12_epoll_tcp_server.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/13_epoll_LT.dir/13_epoll_LT.cpp.o -c /root/Develop/CPP/Learn/05_Socket/13_epoll_LT.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/13_epoll_LT.cpp",
+  "output": "CMakeFiles/13_epoll_LT.dir/13_epoll_LT.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/05_Socket/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/14_epoll_ET.dir/14_epoll_ET.cpp.o -c /root/Develop/CPP/Learn/05_Socket/14_epoll_ET.cpp",
+  "file": "/root/Develop/CPP/Learn/05_Socket/14_epoll_ET.cpp",
+  "output": "CMakeFiles/14_epoll_ET.dir/14_epoll_ET.cpp.o"
 }
 ]
