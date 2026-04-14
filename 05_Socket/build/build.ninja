@@ -424,6 +424,38 @@ build 14_epoll_ET: CXX_EXECUTABLE_LINKER__14_epoll_ET_Debug CMakeFiles/14_epoll_
   TARGET_FILE = 14_epoll_ET
   TARGET_PDB = 14_epoll_ET.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 15_sockopt
+
+
+#############################################
+# Order-only phony target for 15_sockopt
+
+build cmake_object_order_depends_target_15_sockopt: phony || CMakeFiles/15_sockopt.dir
+
+build CMakeFiles/15_sockopt.dir/15_sockopt.cpp.o: CXX_COMPILER__15_sockopt_unscanned_Debug /root/Develop/CPP/Learn/05_Socket/15_sockopt.cpp || cmake_object_order_depends_target_15_sockopt
+  DEP_FILE = CMakeFiles/15_sockopt.dir/15_sockopt.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/15_sockopt.dir
+  OBJECT_FILE_DIR = CMakeFiles/15_sockopt.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 15_sockopt
+
+
+#############################################
+# Link the executable 15_sockopt
+
+build 15_sockopt: CXX_EXECUTABLE_LINKER__15_sockopt_Debug CMakeFiles/15_sockopt.dir/15_sockopt.cpp.o
+  FLAGS = -g
+  LINK_LIBRARIES = -lpthread
+  OBJECT_DIR = CMakeFiles/15_sockopt.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 15_sockopt
+  TARGET_PDB = 15_sockopt.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -459,7 +491,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /root/Develop/CPP/Learn/05_Socket/build
 
-build all: phony 01_bytes_ptr 01_bytes_union 02_htonl 03_address 06_tcp_loop_server 07_tcp_loop_proc_server 08_tcp_loop_thread_server 09_select 10_select_loop_server 12_epoll_tcp_server 13_epoll_LT 14_epoll_ET
+build all: phony 01_bytes_ptr 01_bytes_union 02_htonl 03_address 06_tcp_loop_server 07_tcp_loop_proc_server 08_tcp_loop_thread_server 09_select 10_select_loop_server 12_epoll_tcp_server 13_epoll_LT 14_epoll_ET 15_sockopt
 
 # =============================================================================
 # Built-in targets
