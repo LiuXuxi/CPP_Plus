@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/06_http/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/http_server.dir/main.cpp.o -c /root/Develop/CPP/Learn/06_http/main.cpp",
+  "file": "/root/Develop/CPP/Learn/06_http/main.cpp",
+  "output": "CMakeFiles/http_server.dir/main.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/06_http/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/http_server.dir/http.cpp.o -c /root/Develop/CPP/Learn/06_http/http.cpp",
+  "file": "/root/Develop/CPP/Learn/06_http/http.cpp",
+  "output": "CMakeFiles/http_server.dir/http.cpp.o"
+}
+]
