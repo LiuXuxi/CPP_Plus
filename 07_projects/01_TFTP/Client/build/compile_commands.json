@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/01_TFTP/Client/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/01_TFTP/Client/build -I/root/Develop/CPP/Learn/07_projects/01_TFTP/Client/include -g -std=gnu++11 -o CMakeFiles/client.dir/src/client.cpp.o -c /root/Develop/CPP/Learn/07_projects/01_TFTP/Client/src/client.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/01_TFTP/Client/src/client.cpp",
+  "output": "CMakeFiles/client.dir/src/client.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/01_TFTP/Client/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/01_TFTP/Client/build -I/root/Develop/CPP/Learn/07_projects/01_TFTP/Client/include -g -std=gnu++11 -o CMakeFiles/client.dir/src/main.cpp.o -c /root/Develop/CPP/Learn/07_projects/01_TFTP/Client/src/main.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/01_TFTP/Client/src/main.cpp",
+  "output": "CMakeFiles/client.dir/src/main.cpp.o"
+}
+]

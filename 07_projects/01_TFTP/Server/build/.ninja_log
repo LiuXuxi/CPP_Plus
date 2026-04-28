@@ -1,0 +1,20 @@
+# ninja log v5
+0	154	1776500501	CMakeFiles/server.dir/src/main.cpp.o	76432bf2e35ff168
+0	210	1776500501	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+210	252	1776500501	server	642b550a07f77c74
+1	311	1776500696	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+311	367	1776500696	server	642b550a07f77c74
+0	273	1776500802	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+273	325	1776500803	server	642b550a07f77c74
+1	195	1776502276	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+195	237	1776502276	server	642b550a07f77c74
+0	183	1776502292	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+184	222	1776502292	server	642b550a07f77c74
+0	182	1776502344	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+183	223	1776502344	server	642b550a07f77c74
+0	190	1776502684	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+190	227	1776502684	server	642b550a07f77c74
+1	302	1776504003	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+303	363	1776504003	server	642b550a07f77c74
+0	293	1776504267	CMakeFiles/server.dir/src/server.cpp.o	c4f2e1c8528fb79a
+293	355	1776504267	server	642b550a07f77c74

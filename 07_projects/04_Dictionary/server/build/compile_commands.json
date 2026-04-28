@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/build",
+  "command": "/usr/bin/g++ -I/usr/local/mysql-connector-cpp/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/build -g -std=gnu++17 -o CMakeFiles/server.dir/src/main.cpp.o -c /root/Develop/CPP/Learn/07_projects/04_Dictionary/server/src/main.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/src/main.cpp",
+  "output": "CMakeFiles/server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/build",
+  "command": "/usr/bin/g++ -I/usr/local/mysql-connector-cpp/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/build -g -std=gnu++17 -o CMakeFiles/server.dir/src/DataManager.cpp.o -c /root/Develop/CPP/Learn/07_projects/04_Dictionary/server/src/DataManager.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/src/DataManager.cpp",
+  "output": "CMakeFiles/server.dir/src/DataManager.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/build",
+  "command": "/usr/bin/g++ -I/usr/local/mysql-connector-cpp/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/build -g -std=gnu++17 -o CMakeFiles/server.dir/Msg.pb.cc.o -c /root/Develop/CPP/Learn/07_projects/04_Dictionary/server/build/Msg.pb.cc",
+  "file": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/server/build/Msg.pb.cc",
+  "output": "CMakeFiles/server.dir/Msg.pb.cc.o"
+}
+]

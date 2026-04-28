@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/include -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/build -g -o CMakeFiles/client.dir/src/main.cpp.o -c /root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/src/main.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/src/main.cpp",
+  "output": "CMakeFiles/client.dir/src/main.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/include -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/build -g -o CMakeFiles/client.dir/src/client.cpp.o -c /root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/src/client.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/src/client.cpp",
+  "output": "CMakeFiles/client.dir/src/client.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/include -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/build -g -o CMakeFiles/client.dir/msg.pb.cc.o -c /root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/build/msg.pb.cc",
+  "file": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Client/build/msg.pb.cc",
+  "output": "CMakeFiles/client.dir/msg.pb.cc.o"
+}
+]

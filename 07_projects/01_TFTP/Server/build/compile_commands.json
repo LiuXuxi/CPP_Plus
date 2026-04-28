@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/01_TFTP/Server/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/01_TFTP/Server/include -g -o CMakeFiles/server.dir/src/main.cpp.o -c /root/Develop/CPP/Learn/07_projects/01_TFTP/Server/src/main.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/01_TFTP/Server/src/main.cpp",
+  "output": "CMakeFiles/server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/01_TFTP/Server/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/01_TFTP/Server/include -g -o CMakeFiles/server.dir/src/server.cpp.o -c /root/Develop/CPP/Learn/07_projects/01_TFTP/Server/src/server.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/01_TFTP/Server/src/server.cpp",
+  "output": "CMakeFiles/server.dir/src/server.cpp.o"
+}
+]

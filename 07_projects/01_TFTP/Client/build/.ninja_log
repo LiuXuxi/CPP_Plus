@@ -1,0 +1,14 @@
+# ninja log v5
+0	137	1776502883	CMakeFiles/client.dir/src/main.cpp.o	34d30da2961f7c39
+0	167	1776502883	CMakeFiles/client.dir/src/client.cpp.o	3f2302884bb02ead
+167	207	1776502883	client	383051aa61ab45cf
+0	175	1776503074	CMakeFiles/client.dir/src/client.cpp.o	3f2302884bb02ead
+177	220	1776503074	client	383051aa61ab45cf
+0	167	1776503289	CMakeFiles/client.dir/src/client.cpp.o	3f2302884bb02ead
+167	204	1776503289	client	383051aa61ab45cf
+1	157	1776503366	CMakeFiles/client.dir/src/client.cpp.o	3f2302884bb02ead
+158	203	1776503366	client	383051aa61ab45cf
+2	195	1776504010	CMakeFiles/client.dir/src/client.cpp.o	3f2302884bb02ead
+195	251	1776504010	client	383051aa61ab45cf
+0	161	1776504675	CMakeFiles/client.dir/src/client.cpp.o	3f2302884bb02ead
+162	213	1776504675	client	383051aa61ab45cf

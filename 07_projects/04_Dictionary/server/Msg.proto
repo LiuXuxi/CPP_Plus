@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+enum Type {
+    //注册
+    REGISTER=0;
+    //登录
+    LOGIN=1;
+    //查询单词
+    QUERY=2;
+    //查看历史
+    HISTORY=3;
+    //退出
+    QUIT=4;
+}
+
+message Msg {
+    //消息类型
+    Type type=1;
+    //用户名
+    bytes name=2;
+    //正文：密码/单词
+    bytes data=3;
+}

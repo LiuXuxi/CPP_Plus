@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/02_ThreadPool/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/threadpool.dir/main.cpp.o -c /root/Develop/CPP/Learn/07_projects/02_ThreadPool/main.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/02_ThreadPool/main.cpp",
+  "output": "CMakeFiles/threadpool.dir/main.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/02_ThreadPool/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/threadpool.dir/threadpool.cpp.o -c /root/Develop/CPP/Learn/07_projects/02_ThreadPool/threadpool.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/02_ThreadPool/threadpool.cpp",
+  "output": "CMakeFiles/threadpool.dir/threadpool.cpp.o"
+}
+]

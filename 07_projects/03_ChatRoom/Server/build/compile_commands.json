@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/include -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/build -g -o CMakeFiles/server.dir/src/main.cpp.o -c /root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/src/main.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/src/main.cpp",
+  "output": "CMakeFiles/server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/include -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/build -g -o CMakeFiles/server.dir/src/server.cpp.o -c /root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/src/server.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/src/server.cpp",
+  "output": "CMakeFiles/server.dir/src/server.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/include -I/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/build -g -o CMakeFiles/server.dir/msg.pb.cc.o -c /root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/build/msg.pb.cc",
+  "file": "/root/Develop/CPP/Learn/07_projects/03_ChatRoom/Server/build/msg.pb.cc",
+  "output": "CMakeFiles/server.dir/msg.pb.cc.o"
+}
+]

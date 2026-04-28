@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/build -g -o CMakeFiles/client.dir/src/main.cpp.o -c /root/Develop/CPP/Learn/07_projects/04_Dictionary/client/src/main.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/src/main.cpp",
+  "output": "CMakeFiles/client.dir/src/main.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/build -g -o CMakeFiles/client.dir/src/client.cpp.o -c /root/Develop/CPP/Learn/07_projects/04_Dictionary/client/src/client.cpp",
+  "file": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/src/client.cpp",
+  "output": "CMakeFiles/client.dir/src/client.cpp.o"
+},
+{
+  "directory": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/build",
+  "command": "/usr/bin/g++ -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/include -I/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/build -g -o CMakeFiles/client.dir/Msg.pb.cc.o -c /root/Develop/CPP/Learn/07_projects/04_Dictionary/client/build/Msg.pb.cc",
+  "file": "/root/Develop/CPP/Learn/07_projects/04_Dictionary/client/build/Msg.pb.cc",
+  "output": "CMakeFiles/client.dir/Msg.pb.cc.o"
+}
+]
